@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=wonjeong%20github&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=wonjeong%20github&fontSize=90&animation=fadeIn" />
 <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=JAVA&logoColor=white"/>
 <img src="https://img.shields.io/badge/java-%23007396.svg?&style=for-the-badge&logo=java&logoColor=white" />
 <!--
