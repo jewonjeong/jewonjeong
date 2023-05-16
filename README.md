@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=wonjeong%20&fontSize=90" />
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=jewonjeong%20&fontSize=90" />
 <img src="https://img.shields.io/badge/JAVA-3178C6?style=flat&logo=JAVA&logoColor=white"/>
 <!--
 **jewonjeong/jewonjeong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
